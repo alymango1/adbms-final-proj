@@ -103,11 +103,11 @@ http://localhost/adbms-final-proj/
 
 ## 📸 Screenshots
 
-<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/e8beb2af-408b-401e-8850-ef8a36427476" />
-<img width="1917" height="880" alt="image" src="https://github.com/user-attachments/assets/89ecde96-9f71-4df4-b49c-9ee5c9098b07" />
-<img width="1916" height="878" alt="image" src="https://github.com/user-attachments/assets/ecf8cf1c-42dd-4c2c-a9d3-867e33fe398b" />
-
-
+<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/3637a85d-edff-4b6c-acfa-7b7ecd03f443" />
+<img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/b6f2a419-eaab-4b85-8ca7-8da20b728529" />
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/47cf81a0-fb6a-4f46-9a8c-d44daad76aae" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/e28f2bb5-56f0-4fd2-8080-836d5ef495bd" />
+![Uploading image.png…]()
 
 ---
 
